@@ -2,7 +2,7 @@
 
 <p align="center">
   <i>Frontend weaver · Android crafter · Terminal whisperer</i><br>
-  <i>Code that feels. Design that speaks. Interfaces with soul.</i>
+  <i>Diseñando experiencias, no solo interfaces.</i>
 </p>
 
 <p align="center">
@@ -14,43 +14,41 @@
 
 ### 🧬 Sobre mí
 
-Soy **Skilkry**, un desarrollador en evolución constante, obsesionado con lo visual, lo accesible y lo bien hecho.
+Hola, soy **Skilkry**, un desarrollador en constante evolución. Me obsesiona lo visual, lo accesible y lo bien hecho. Trabajo con pasión para que cada proyecto transmita algo real, más allá de la funcionalidad.
 
-```bash
-> stack describe --me
-🧠 Frontend: HTML, CSS, SASS, Tailwind, JavaScript
-⚛️ Frameworks: React, Astro
-📱 Android: Kotlin + XML
-🖥️ Bash scripting & automation
-🎨 Estética: Cyberpunk, minimalismo, motion design
-Amante de lo funcional con estilo
+- 🧠 **Frontend**: HTML · CSS · SASS · Tailwind · JavaScript  
+- ⚛️ **Frameworks**: React · Astro  
+- 📱 **Android**: Kotlin · XML  
+- 🖥️ **Shell**: Bash scripting & automatización  
 
-Obsesionado con la accesibilidad real
+---
 
-Apasionado de la experiencia antes que el ego
+### ⚙️ Tecnologías que uso
 
-🌌 Proyectos clave
-🕶️ Portfolio Web
-Un sitio cyberpunk, animado e interactivo. Cargado con tecnologías modernas y detalle en cada píxel.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,astro,kotlin,xml,bash&theme=light" alt="tech stack" />
+</p>
 
-📱 App Android (WIP)
-Construida desde cero en Kotlin + XML. Minimal, rápida y orientada a experiencia.
+---
 
-⚙️ Stack actual
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,astro,kotlin,xml,bash&theme=light" /> </p>
-🎯 Filosofía
-txt
-Copiar
-Editar
-Diseño sin alma no me sirve.
-Código sin intención tampoco.
-Trabajo desde la emoción, el detalle y el impacto real.
-Me inspiro en el arte, el ruido blanco y la claridad.
+### 🌌 Proyectos destacados
 
-Me pierdo en animaciones bien pensadas y lógica bien escrita.
+- 🕶️ [**Portfolio Web**](https://skilkry.github.io/skilkry-portfolio)  
+  Un sitio cyberpunk, animado e interactivo. Cada detalle pensado para impactar.
 
-Creo interfaces que se entienden sin explicación.
+- 📱 **App Android (WIP)**  
+  Desarrollada desde cero con Kotlin y XML. Minimal, rápida y orientada a la experiencia.
 
-📫 Contacto directo
-<p align="center"> <a href="mailto:ssdsardina@gmail.com"> <img src="https://img.shields.io/badge/Email-ssdsardina@gmail.com-blueviolet?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
-<p align="center"><i>"La estética importa. La intención, más."</i></p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=7F00FF&center=true&vCenter=true&width=435&lines=Let's+code+the+unseen.;Designing+emotions+through+pixels.;Interfaces+with+soul+%7C+Skilkry." alt="Typing SVG" /> </p> ```
+---
+
+### 📫 Contacto
+
+<p align="center">
+  <a href="mailto:ssdsardina@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ssdsardina@gmail.com-blueviolet?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+</p>
+
+---
+
+<p align="center"><i>"La estética importa. La intención, más."</i></p>
