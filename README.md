@@ -30,12 +30,12 @@ Siempre busco formas de combinar estética y funcionalidad en cada proyecto.
 
 ### 🌌 Mis proyectos actuales
 
-- ✨ [**Portfolio Web**](https://skilkry.github.io/skilkry-portfolio.com) – Cyberpunk, interactivo, y animado con tecnologías modernas.
+- ✨ [**Portfolio Web**](https://skilkry.github.io/skilkry-portfolio) – Cyberpunk, interactivo, y animado con tecnologías modernas.
 - 📱 **App Android** – En desarrollo, creada desde cero con Kotlin y XML.
 
 ---
 
-### 🧩 Algo más...
+### 🧩 Más sobre mí...
 
 - 🧪 Me encanta experimentar con diseño, accesibilidad y animaciones.
 - 🔐 Interesado también en la ciberseguridad y buenas prácticas.
@@ -45,10 +45,4 @@ Siempre busco formas de combinar estética y funcionalidad en cada proyecto.
 
 ### 📬 Contacto
 
-- ✉️ skillkry.dev[at]example.com
-- 🌐 [Mi portfolio](https://tuenlaceaqui.com)
-- 💼 (Opcional: [LinkedIn](https://linkedin.com/in/skilkry))
-
----
-
-<p align="center"><i>"Cada línea de código es una promesa: que esto puede ser mejor."</i></p>
+- ✉️ <i> ssdsardina@gmail.com <i>
