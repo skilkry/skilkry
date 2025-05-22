@@ -30,7 +30,7 @@ Siempre busco formas de combinar estética y funcionalidad en cada proyecto.
 
 ### 🌌 Mis proyectos actuales
 
-- ✨ [**Portfolio Web**](https://tuenlaceaqui.com) – Cyberpunk, interactivo, y animado con tecnologías modernas.
+- ✨ [**Portfolio Web**](https://skilkry.github.io/skilkry-portfolio.com) – Cyberpunk, interactivo, y animado con tecnologías modernas.
 - 📱 **App Android** – En desarrollo, creada desde cero con Kotlin y XML.
 
 ---
