@@ -1,62 +1,59 @@
-<h1 align="center">👾 Skilkry — Creative Dev Explorer</h1>
+&lt;h1 align="center">👾 Skilkry — Creative Dev Explorer 🚀&lt;/h1>
 
-<p align="center">
-  <i>Frontend weaver · Android crafter · Terminal whisperer</i><br>
-  <i>Diseñando experiencias, no solo interfaces.</i>
-</p>
+&lt;p align="center">
+&lt;i>Frontend weaver · Android crafter · Terminal whisperer&lt;/i>&lt;br>
+&lt;i>Diseñando experiencias, no solo interfaces.&lt;/i>
+&lt;/p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=skilkry&label=Visitas&color=blueviolet&style=flat-square" alt="visitas"/>
-  <img src="https://img.shields.io/github/followers/skilkry?label=Seguidores&style=flat-square&color=blueviolet" alt="followers"/>
-</p>
+&lt;p align="center">
+&lt;a href="[se quitó una URL no válida]">
+&lt;img src="[se quitó una URL no válida]" alt="Visitas"/>
+&lt;/a>
+&lt;a href="[se quitó una URL no válida]">
+&lt;img src="[se quitó una URL no válida]" alt="Seguidores"/>
+&lt;/a>
+&lt;a href="[se quitó una URL no válida]">
+&lt;img src="[se quitó una URL no válida]" alt="GitHub Stars"/>
+&lt;/a>
+&lt;/p>
 
----
+👋 ¡Hola! Soy Skilkry
+Soy un desarrollador apasionado por dar vida a ideas digitales. Mi objetivo es crear experiencias únicas, visuales y funcionales que realmente se sientan. Exploro constantemente nuevas herramientas y técnicas para construir interfaces intuitivas y eficientes.
 
-### 🚀 Sobre mí
+Actualmente, mis habilidades se centran en:
 
-Hola, soy **Skilkry**, un desarrollador apasionado por crear experiencias digitales únicas, visuales y funcionales. Actualmente me centro en:
+Frontend: Dominio de HTML, CSS, SASS, Tailwind y JavaScript para interfaces web robustas y estilizadas.
+Frameworks: Especializado en React para aplicaciones dinámicas y Astro para sitios web de alto rendimiento.
+Android: Desarrollo de aplicaciones nativas con Kotlin y XML, centrado en la usabilidad y el diseño minimalista.
+Shell Scripting: Automatización de tareas y optimización de flujos de trabajo con Bash.
+Me esfuerzo por escribir código que no solo cumpla su función, sino que también ofrezca una experiencia de usuario fluida y memorable.
 
-- 🧠 **Frontend**: HTML · CSS · SASS · Tailwind · JavaScript  
-- ⚛️ **Frameworks**: React · Astro  
-- 📱 **Android**: Kotlin · XML  
-- 🖥️ **Shell scripting**: Automatización con Bash
+🛠️ Mi Stack de Tecnologías
+Estas son las herramientas y lenguajes que más utilizo para dar vida a mis proyectos:
 
-Me gusta escribir código que **se sienta**, no solo que funcione.
+&lt;p align="center">
+&lt;img src="[se quitó una URL no válida]" alt="Tecnologías"/>
+&lt;/p>
 
----
+🌌 Proyectos Destacados
+Aquí te presento algunos de mis trabajos más representativos:
 
-### 🛠️ Tecnologías favoritas
+🕶️ Portfolio Web: Mi sitio personal, un espacio animado, moderno y estético con una vibración cyberpunk. Es una muestra de mi creatividad y habilidades en el desarrollo frontend.
+📱 Aplicación Android (WIP): Un proyecto en desarrollo, construido desde cero con Kotlin y XML. Su enfoque es un diseño minimalista y una eficiencia excepcional. ¡Pronto más detalles!
+💡 Un poco más sobre mí
+Más allá del código, me interesa profundamente:
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,astro,kotlin,xml,bash&theme=light" />
-</p>
+Accesibilidad: Construir experiencias inclusivas para todos los usuarios.
+Buenas Prácticas: Escribir código limpio, mantenible y escalable.
+Ciberseguridad: Entender los fundamentos para desarrollar aplicaciones más seguras.
+Diseño y Animación: Experimentar con UI fluidas y animaciones que enriquecen la interacción del usuario.
+Soy un desarrollador proactivo, creativo y siempre busco soluciones eficientes y sin complicaciones.
 
----
+📫 Conectemos
+Siempre estoy abierto a nuevas oportunidades y colaboraciones. ¡No dudes en contactarme!
 
-### 🌌 Proyectos destacados
+&lt;p align="center">
+✉️ &lt;a href="mailto:ssdsardina@gmail.com">ssdsardina@gmail.com&lt;/a>
+&lt;/p>
 
-- 🕶️ [**Portfolio Web**](https://skilkry.github.io/skilkry-portfolio)  
-  Un sitio animado, moderno y estético, con un enfoque cyberpunk.
-
-- 📱 **App Android (WIP)**  
-  Desarrollada desde cero con Kotlin y XML. Diseño minimal y eficiente.
-
----
-
-### 🧩 También...
-
-- 🔍 Interesado en accesibilidad, buenas prácticas y ciberseguridad.
-- 🎨 Me gusta experimentar con animaciones y UI fluidas.
-- 🧘 Trabajo constante, creativo y sin dramas.
-
----
-
-### 📫 Contacto
-
-<p align="center">
-  ✉️ <a href="mailto:ssdsardina@gmail.com">ssdsardina@gmail.com</a>
-</p>
-
----
-
-<p align="center"><i>“El diseño es inteligencia hecha visible.”</i></p>
+&lt;p align="center">&lt;i>“El diseño es inteligencia hecha visible.”&lt;/i>&lt;/p>
