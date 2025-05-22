@@ -1,135 +1,41 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Skilkry GitHub Profile Card</title>
-  <style>
-    @import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
+<h1 align="center">👾 Skilkry — Creative Dev Explorer</h1>
 
-    body {
-      margin: 0;
-      background: #0d1117;
-      font-family: 'Fira Code', monospace;
-      color: #c9d1d9;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      min-height: 100vh;
-    }
+<p align="center">
+  <i>Frontend weaver · Android crafter · Terminal whisperer</i><br>
+  <i>Diseñando experiencias, no solo interfaces.</i>
+</p>
 
-    .card {
-      background: linear-gradient(145deg, #1f2937, #111827);
-      border: 2px solid #30363d;
-      border-radius: 1rem;
-      padding: 2rem;
-      max-width: 600px;
-      box-shadow: 0 0 25px rgba(0, 255, 255, 0.15);
-      animation: fadeIn 1s ease-in-out;
-    }
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=skilkry&label=Visitas&color=58a6ff&style=flat-square" alt="visitas"/>
+  <img src="https://img.shields.io/github/followers/skilkry?label=Seguidores&style=flat-square&color=purple" alt="followers"/>
+</p>
 
-    h1 {
-      text-align: center;
-      color: #58a6ff;
-    }
+---
 
-    p.intro {
-      text-align: center;
-      font-style: italic;
-      margin-bottom: 2rem;
-    }
+```bash
+~$ whoami
+🧠 Desarrollador frontend apasionado por la estética, animaciones y accesibilidad.
+⚛️ Explorando React, Astro, Kotlin y el mundo Android.
+🐧 Amante del terminal, el control total y la eficiencia bash.
+🚀 Proyectos actuales
+🕶️ Portfolio Web
+Cyberpunk, interactivo, moderno y con alma propia.
 
-    section {
-      margin-bottom: 1.5rem;
-    }
+📱 App Android (en desarrollo)
+Kotlin + XML + pasión = una experiencia fluida desde cero.
 
-    ul {
-      padding-left: 1.5rem;
-    }
+⚙️ Stack actual
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,astro,kotlin,xml,bash&theme=dark" /> </p>
+🧩 Extras
+🎯 Diseño centrado en la experiencia del usuario real.
 
-    a {
-      color: #8b5cf6;
-      text-decoration: none;
-    }
+👁️‍🗨️ Foco fuerte en la accesibilidad (mis padres no ven).
 
-    a:hover {
-      text-decoration: underline;
-    }
+🧪 Me encanta experimentar: desde servidores hasta animaciones con JS puro.
 
-    .icons {
-      display: flex;
-      justify-content: center;
-      flex-wrap: wrap;
-      gap: 0.5rem;
-      margin-top: 1rem;
-    }
+🔐 Interesado en ciberseguridad, hardening y buenas prácticas.
 
-    .contact {
-      text-align: center;
-      font-style: italic;
-      color: #9ca3af;
-    }
-
-    @keyframes fadeIn {
-      from {
-        opacity: 0;
-        transform: translateY(20px);
-      }
-      to {
-        opacity: 1;
-        transform: translateY(0);
-      }
-    }
-  </style>
-</head>
-<body>
-  <div class="card">
-    <h1>👾 Skilkry — Creative Dev Explorer</h1>
-    <p class="intro">
-      Frontend weaver · Android crafter · Terminal whisperer<br />
-      Diseñando experiencias, no solo interfaces.
-    </p>
-
-    <section>
-      <h2>🚀 Sobre mí</h2>
-      <p>
-        Hola, soy <strong>Skilkry</strong>, un desarrollador en constante evolución, actualmente centrado en:
-      </p>
-      <ul>
-        <li>🧠 Frontend web con HTML, CSS, SASS, Tailwind y JavaScript</li>
-        <li>⚛️ Interfaces dinámicas con React y Astro</li>
-        <li>📱 Desarrollo Android con Kotlin y XML</li>
-        <li>🖥️ Automatización y servidores con Bash</li>
-      </ul>
-    </section>
-
-    <section>
-      <h2>🛠️ Tecnologías que uso</h2>
-      <div class="icons">
-        <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,astro,kotlin,bash,xml" alt="Skilkry's tech stack" />
-      </div>
-    </section>
-
-    <section>
-      <h2>🌌 Mis proyectos actuales</h2>
-      <ul>
-        <li>✨ <a href="https://skilkry.github.io/skilkry-portfolio" target="_blank">Portfolio Web</a> – Cyberpunk, interactivo, y animado con tecnologías modernas.</li>
-        <li>📱 App Android – En desarrollo, creada desde cero con Kotlin y XML.</li>
-      </ul>
-    </section>
-
-    <section>
-      <h2>🧩 Más sobre mí...</h2>
-      <ul>
-        <li>🧪 Me encanta experimentar con diseño, accesibilidad y animaciones.</li>
-        <li>🔐 Interesado también en la ciberseguridad y buenas prácticas.</li>
-        <li>🧘 Trabajo con pasión, pero sin perder la cabeza.</li>
-      </ul>
-    </section>
-
-    <section class="contact">
-      📬 Contacto: ssdsardina@gmail.com
-    </section>
-  </div>
-</body>
-</html>
+📫 Contacto
+<p align="center"> <a href="mailto:ssdsardina@gmail.com"><img src="https://img.shields.io/badge/-ssdsardina@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=red" /></a> </p>
+<details> <summary>📈 Estadísticas de GitHub</summary> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=skilkry&show_icons=true&theme=tokyonight&hide_border=true" alt="Skilkry GitHub Stats" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skilkry&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" /> </p> </details>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Build+to+express%2C+not+just+to+impress.;Crafting+the+future+line+by+line.;Let's+code+something+epic!" alt="Typing SVG" /> </p> ```
