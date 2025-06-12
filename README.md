@@ -1,9 +1,9 @@
 <p align="center">
   <img 
-    src="https://github.com/user-attachments/assets/69bcd258-0a03-4200-987f-4d273c4bc1ec" 
+    src="https://github.com/user-attachments/assets/69bcd258-0a03-4200-987f](https://github.com/user-attachments/assets/89abe2c9-9762-4231-84cc-2fdb9bf2d2b9"
+4d273c4bc1ec" 
     alt="Logo de Skilkry" 
-    width="120" 
-    style="border-radius: 50%; border: 2px solid #7f00ff;" />
+    width="120" />
 </p>
 
 <h1 align="center">Skilkry <small>(Daniel Sardina)</small></h1>
@@ -57,5 +57,3 @@ Hola, soy **Skilkry**, un desarrollador en constante evolución. Me obsesiona lo
 </p>
 
 ---
-
-<p align="center"><i>"La estética importa. La intención, más."</i></p>
