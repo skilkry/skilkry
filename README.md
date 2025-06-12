@@ -19,31 +19,31 @@
 
 ---
 
-### 🧬 Sobre mí
+### - Sobre mí
 
 Hola, soy **Skilkry**, un desarrollador en constante evolución. Me obsesiona lo visual, lo accesible y lo bien hecho. Trabajo con pasión para que cada proyecto transmita algo real, más allá de la funcionalidad.
 
-- 🧠 **Frontend**: HTML · CSS · SASS · Tailwind · JavaScript  
-- ⚛️ **Frameworks**: React · Astro  
-- 📱 **Android**: Kotlin · XML  
-- 🖥️ **Shell**: Bash scripting & automatización  
+-  **Frontend**: HTML · CSS · SASS · Tailwind · JavaScript  
+-  **Frameworks**: React · Astro  
+-  **Android**: Kotlin · XML  
+-  **Shell**: Bash scripting & automatización  
 
 ---
 
-### ⚙️ Tecnologías que uso
+### ⚙ Tecnologías que uso
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,astro,kotlin,xml,bash&theme=light" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,astro,kotlin,xml,bash&theme=dark" />
 </p>
 
 ---
 
 ### 🌌 Proyectos destacados
 
-- 🕶️ [**Portfolio Web**](https://skilkry.github.io/skilkry-portfolio)  
+- 🕶️ [**Portfolio Web**] (WIP) (https://skilkry.github.io/portfolio)  
   Un sitio cyberpunk, animado e interactivo. Cada detalle pensado para impactar.
 
-- 📱 **App Android (WIP)**  
+- 📱 **App Android (WIP)**  (https://github.com/skilkry/Vpn-DoH)
   Desarrollada desde cero con Kotlin y XML. Minimal, rápida y orientada a la experiencia.
 
 ---
