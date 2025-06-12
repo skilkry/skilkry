@@ -1,7 +1,7 @@
 <p align="center">
   <img width="100px" src="https://github.com/user-attachments/assets/69bcd258-0a03-4200-987f-4d273c4bc1ec" alt="Skilkry logo" />
 </p>
- <h1 align="center" font-size="2em" weight="700"></h1>Skilkry (Daniel Sardina)</h1>
+<h1 align="center">Skilkry <small>(Daniel Sardina)</small></h1>
 
 <p align="center">
   <i>Front-end & Android Dev, Modder</i>
