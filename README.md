@@ -1,6 +1,11 @@
 <p align="center">
-  <img width="100px" src="https://github.com/user-attachments/assets/69bcd258-0a03-4200-987f-4d273c4bc1ec" alt="Skilkry logo" />
+  <img 
+    src="https://github.com/user-attachments/assets/69bcd258-0a03-4200-987f-4d273c4bc1ec" 
+    alt="Logo de Skilkry" 
+    width="120" 
+    style="border-radius: 50%; border: 2px solid #7f00ff;" />
 </p>
+
 <h1 align="center">Skilkry <small>(Daniel Sardina)</small></h1>
 
 <p align="center">
