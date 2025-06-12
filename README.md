@@ -1,10 +1,6 @@
-![image](https://github.com/user-attachments/assets/685f227a-11a2-4693-81c1-f6f9cddb3124)
-
-
-
 <p align="center">
   <img 
-    src="https://github.com/user-attachments/assets/69bcd258-0a03-4200-987f](https://github.com/user-attachments/assets/89abe2c9-9762-4231-84cc-2fdb9bf2d2b9"
+    src="https://github.com/user-attachments/assets/685f227a-11a2-4693-81c1-f6f9cddb3124"
 4d273c4bc1ec" 
     alt="Logo de Skilkry" 
     width="120" />
