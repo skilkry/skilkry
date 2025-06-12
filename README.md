@@ -1,11 +1,10 @@
 <p align="center">
   <img width="100px" src="https://github.com/user-attachments/assets/69bcd258-0a03-4200-987f-4d273c4bc1ec" alt="Skilkry logo" />
 </p>
- Skilkry — Front-end & Android Dev, Modder</h1>
+ <h1 align="center" font-size="2em" weight="700"></h1>Skilkry (Daniel Sardina)</h1>
 
 <p align="center">
-  <i>Frontend weaver · Android crafter · Terminal whisperer</i><br>
-  <i>Diseñando experiencias, no solo interfaces.</i>
+  <i>Front-end & Android Dev, Modder</i>
 </p>
 
 <p align="center">
