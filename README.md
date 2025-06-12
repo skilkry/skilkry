@@ -1,4 +1,4 @@
-<h1 align="center"><img width="100px" height="100px" src="https://github.com/user-attachments/assets/69bcd258-0a03-4200-987f-4d273c4bc1ec">
+<h1 align="center"><img width="100px" height="100px" style="margin-top 15px; margin-right="10px"" src="https://github.com/user-attachments/assets/69bcd258-0a03-4200-987f-4d273c4bc1ec">
  Skilkry — Creative Dev Explorer</h1>
 
 <p align="center">
