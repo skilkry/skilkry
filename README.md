@@ -1,4 +1,4 @@
-<h1 align="center"><img width="100px" height="100px">![image](https://github.com/user-attachments/assets/69bcd258-0a03-4200-987f-4d273c4bc1ec)
+<h1 align="center"><img width="100px" height="100px" src="https://github.com/user-attachments/assets/69bcd258-0a03-4200-987f-4d273c4bc1ec">
  Skilkry — Creative Dev Explorer</h1>
 
 <p align="center">
