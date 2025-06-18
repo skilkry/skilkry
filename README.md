@@ -40,7 +40,7 @@ Hola, soy **Skilkry**, un desarrollador en constante evolución. Me obsesiona lo
 
 ### 🌌 Proyectos destacados
 
-- 🕶️ [**Portfolio Web**] (WIP) (https://skilkry.github.io/portfolio)  
+- 🕶️ [**Portfolio Web**] (WIP) (https://skilkry.is-a.dev)  
   Un sitio cyberpunk, animado e interactivo. Cada detalle pensado para impactar.
 
 - 📱 **App Android (WIP)**  (https://github.com/skilkry/Vpn-DoH)
