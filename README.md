@@ -26,7 +26,7 @@ Hola, soy Skilkry. Desmonto software para ver cómo funciona y construyo experie
 ### - Tecnologías que uso
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,astro,kotlin,xml,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,Smali,XML,kotlin,bash&theme=dark" />
 </p>
 
 ---
