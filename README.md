@@ -33,11 +33,21 @@ Hola, soy Skilkry. Desmonto software para ver cómo funciona y construyo experie
 
 Mis Proyectos favoritos
 
-- 🕶️ [**Portfolio Web**] (https://skilkry.is-a.dev)  <img width="300" height="300" alt="Screenshot 2025-07-31 at 16 47 51" src="https://github.com/user-attachments/assets/aee75534-013b-4b1d-a54c-d8f0997a47d5" />
-  Un sitio cyberpunk, animado e interactivo. Cada detalle pensado para impactar.
+### Mis Proyectos favoritos
 
-- 📱 **App Android (WIP)**  (https://github.com/skilkry/Vpn-DoH)
+-  [**Portfolio Web**] 😃 (https://skilkry.is-a.dev)
+  Un sitio cyberpunk, animado e interactivo. Cada detalle pensado para impactar.
+  <p align="center">
+    <a href="https://skilkry.is-a.dev">
+      <img src="https://github.com/user-attachments/assets/aee75534-013b-4b1d-a54c-d8f0997a47d5" width="300" alt="Vista previa del Portfolio">
+    </a>
+  </p>
+
+-  [**App Android**] 🫠 (https://github.com/skilkry/Vpn-DoH)
   Desarrollada desde cero con Kotlin y XML. Minimal, rápida y orientada a la experiencia.
+
+
+---
 
 ---
 
