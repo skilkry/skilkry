@@ -21,7 +21,7 @@
 
 ### - Sobre mí
 
-Hola, soy **Skilkry**, un desarrollador en constante evolución. Me obsesiona lo visual, lo accesible y lo bien hecho. Trabajo con pasión para que cada proyecto transmita algo real, más allá de la funcionalidad.
+Hola, soy Skilkry. Desmonto software para ver cómo funciona y construyo experiencias web que no deberían ser posibles. Me obsesiona lo visual, lo accesible y lo bien hecho.
 
 -  **Frontend**: HTML · CSS · SASS · Tailwind · JavaScript  
 -  **Frameworks**: React · Astro  
