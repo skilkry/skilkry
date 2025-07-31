@@ -22,7 +22,6 @@
 ### - Sobre mí
 
 Hola, soy Skilkry. Desmonto software para ver cómo funciona y construyo experiencias web que no deberían ser posibles. Me obsesiona lo visual, lo accesible y lo bien hecho.
-<img width="300" height="300" alt="Screenshot 2025-07-31 at 16 47 51" src="https://github.com/user-attachments/assets/aee75534-013b-4b1d-a54c-d8f0997a47d5" />
 
 ### - Tecnologías que uso
 
@@ -34,7 +33,7 @@ Hola, soy Skilkry. Desmonto software para ver cómo funciona y construyo experie
 
 Mis Proyectos favoritos
 
-- 🕶️ [**Portfolio Web**] (https://skilkry.is-a.dev)  
+- 🕶️ [**Portfolio Web**] (https://skilkry.is-a.dev)  <img width="300" height="300" alt="Screenshot 2025-07-31 at 16 47 51" src="https://github.com/user-attachments/assets/aee75534-013b-4b1d-a54c-d8f0997a47d5" />
   Un sitio cyberpunk, animado e interactivo. Cada detalle pensado para impactar.
 
 - 📱 **App Android (WIP)**  (https://github.com/skilkry/Vpn-DoH)
