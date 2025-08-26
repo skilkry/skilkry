@@ -6,7 +6,7 @@
     width="120" />
 </p>
 
-<h1 align="center">Skilkry <small>(Daniel Sardina)</small></h1>
+<h1 align="center">Skilkry <small></small></h1>
 
 <p align="center">
   <i>Front-end & Android Dev, Modder</i>
@@ -21,7 +21,7 @@
 
 ### - Sobre mí
 
-Hola, soy Skilkry. Desmonto software para ver cómo funciona y construyo experiencias web que no deberían ser posibles. Me obsesiona lo visual, lo accesible y lo bien hecho.
+Hola, soy Skilkry. Construyo experiencias web que no deberían ser posibles. Me obsesiona lo visual, lo accesible y lo bien hecho.
 
 ### - Tecnologías que uso
 
