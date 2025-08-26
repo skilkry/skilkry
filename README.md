@@ -6,7 +6,7 @@
     width="120" />
 </p>
 
-<h1 align="center">Skilkry <small></small></h1>
+<h1 align="center">Skilkry <small</small></h1>
 
 <p align="center">
   <i>Front-end & Android Dev, Modder</i>
@@ -26,7 +26,7 @@ Hola, soy Skilkry. Construyo experiencias web que no deberían ser posibles. Me 
 ### - Tecnologías que uso
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,Smali,XML,kotlin,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,bash&theme=dark" />
 </p>
 
 ---
@@ -51,12 +51,10 @@ Mis Proyectos favoritos
 
 ---
 
-### 📫 Contacto
+### - Tecnologías que uso
 
 <p align="center">
-  <a href="mailto:ssdsardina@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ssdsardina@gmail.com-blueviolet?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,bash&theme=dark" />
 </p>
 
 ---
